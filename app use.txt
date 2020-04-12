@@ -1,0 +1,4 @@
+Pls download BLYNK app ::
+then scan the QR code to log in to our application
+appname: covidGate
+author: sanyalsubhajit39@gmail.com
