@@ -4,7 +4,7 @@
 # GreenHolics- This algorithm will be integrated in the edge nodes of the CCTV cameras to detect realtime gathering and report to thr authourity
 # 2 nd-part
 
-
+## YOU must edit Your .jsons to point to thhe respective locations on your downloaded datasets
 
 ## Datasets
 ShanghaiTech Dataset: [Google Drive](https://drive.google.com/open?id=16dhJn7k4FWVwByRsQAEpl9lwjuV03jVI)
