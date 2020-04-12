@@ -1,7 +1,7 @@
 
 # ################################################ CROWD SCREENING WITH DEEP LEARNING #########################
 
-# GreenHolics-
+# GreenHolics- This algorithm will be integrated in the edge nodes of the CCTV cameras to detect realtime gathering
 # 2 nd-part
 
 
