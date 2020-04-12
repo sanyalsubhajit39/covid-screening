@@ -1,14 +1,14 @@
 
 # ################################################ CROWD SCREENING WITH DEEP LEARNING #########################
 
-# GreenHolics-CSRNet-pytorch
+# GreenHolics-
 # 2 nd-part
 
 
 
 ## Datasets
 ShanghaiTech Dataset: [Google Drive](https://drive.google.com/open?id=16dhJn7k4FWVwByRsQAEpl9lwjuV03jVI)
-also included in -pyTorch folder
+
 
 ## Prerequisites
 We strongly recommend Anaconda as the environment.
