@@ -1,7 +1,7 @@
 
 # ################################################ CROWD SCREENING WITH DEEP LEARNING #########################
 
-# GreenHolics- This algorithm will be integrated in the edge nodes of the CCTV cameras to detect realtime gathering and report to thr authourity
+# GreenHolics- This CNN -CC algorithm will be integrated in the edge nodes of the CCTV cameras to detect realtime gathering and report to thr authourity
 # 2 nd-part
 
 ## YOU must edit Your .jsons to point to thhe respective locations on your downloaded datasets
@@ -35,6 +35,18 @@ Follow the `val.ipynb` to try the validation. You can try to modify the notebook
 
 ShanghaiA MAE: 66.4 [Google Drive](https://drive.google.com/open?id=1Z-atzS5Y2pOd-nEWqZRVBDMYJDreGWHH)
 ShanghaiB MAE: 10.6 [Google Drive](https://drive.google.com/open?id=1zKn6YlLW3Z9ocgPbP99oz7r2nC7_TBXK)
+## Performance Evaluation of CNN-CC Algorithms
+In this section, our main goal was to evaluate the selected existing CNN-CC algorithms.
+For evaluation purposes, we considered a common performance metric: MAE, where N is the number
+of test samples, yi is used for ground-truth count, and y0
+i is the estimated count of i th sample.
+MAE =
+1
+N
+Nå
+i=1
+jyi 􀀀 y0
+i j (
 
 ## References
 
