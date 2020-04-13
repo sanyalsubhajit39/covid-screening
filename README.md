@@ -50,7 +50,7 @@ i j (
 
 ## References
 
-
+Inspired by CNN_CC reaseach paper by Zing zou.
 ```
 Please cite the Shanghai datasets and other works if you use them.
 
