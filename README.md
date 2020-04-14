@@ -1,6 +1,6 @@
 # greenHolics 
                               # change the branch above to view part 1 and part 2
-IOT based Thermal Signature detector with alarm & e-mail notification from passenger records including automatic Ticket checking, ambulance booking and automatic crowd screening.
+IOT based Thermal Signature detector with alarm & e-mail notification from passenger records including automatic Ticket checking, ambulance booking and Automatic Crowd Screening.
 
 
 15000 INR --------------------> 1500 INR
