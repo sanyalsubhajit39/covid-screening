@@ -5,6 +5,7 @@
 # 2 nd-part
 
 ## YOU must edit Your .jsons to point to thhe respective locations on your downloaded datasets
+## if using any web based gpu then Fulfil as per their formalities of dataset location.
 
 ## Datasets
 ShanghaiTech Dataset: [Google Drive](https://drive.google.com/open?id=16dhJn7k4FWVwByRsQAEpl9lwjuV03jVI)
