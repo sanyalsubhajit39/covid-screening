@@ -11,7 +11,7 @@
 ShanghaiTech Dataset: [Google Drive](https://drive.google.com/open?id=16dhJn7k4FWVwByRsQAEpl9lwjuV03jVI)
 Now, move the dataset into the repository you cloned above and unzip it.
 In the dataset above change the folders Ground_truth to Ground-truth in both part_A_final and part_B_final. 
-Now, open make_dataset.ipynb in Greenholics-Ct Master folder, execute it.	
+Now, open make_dataset.ipynb in Greenholics-Ct Master folder, execute it.	TO TRAIN THE DEEP LEARNING MODEL
 
 ## Prerequisites
 We strongly recommend Anaconda as the environment.
