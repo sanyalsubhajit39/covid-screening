@@ -16,3 +16,5 @@ In todays condition, if 10 gates require 10 staffs with 15000 INR thermal guns a
 
                 * For thats the beauty of IOT *
 USP:-** Thermal Gun(15000 INR) +Ambulence booking+Screening of gathering+ Human labour evolved > Integrated IoT thermal dection(1500 INR)+AI NoMan operation,ID based notification, Cost effective *
+
+RESEARCH PAPER LINK: https://ijetae.com/files/Volume10Issue4/IJETAE_0420_20.pdf
